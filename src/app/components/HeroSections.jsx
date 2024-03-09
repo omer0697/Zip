@@ -59,9 +59,6 @@ export default function HeroSection() {
           <div className="hidden lg:flex lg:gap-x-12">
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-            <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
-              Log in <span aria-hidden="true">&rarr;</span>
-            </a>
           </div>
         </nav>
         <Dialog as="div" className="lg:hidden" open={mobileMenuOpen} onClose={setMobileMenuOpen}>
@@ -120,7 +117,7 @@ export default function HeroSection() {
                 Зип пакеты c бегунов
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-                Мы предлагаем: зип пакеты с бегунком, оптовые зип лок пакеты, пакеты для вальбериса, пакеты для WB, пакеты для Ozon, матовые, Прозрачный
+            Мы предлагаем: зип пакеты с бегунком, матовый и прозрачный.Мы являемся производителем. производство город Москва.Если нужны размер не нашли напишите
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a

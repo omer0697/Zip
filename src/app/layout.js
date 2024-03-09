@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Зип пакеты c бегунов",
   description: "Мы предлагаем: зип пакеты с бегунком, оптовые зип лок пакеты, пакеты для вальбериса, пакеты для WB, пакеты для Ozon, матовые, Прозрачный",
+  keywords: "зип пакеты с бегунком, оптовые зип лок пакеты, пакеты для вальбериса, пакеты для WB, пакеты для Ozon, матовые, Прозрачный"
 };
 
 export default function RootLayout({ children }) {
