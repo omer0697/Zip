@@ -11,147 +11,147 @@ const PRICE_LIST = [
     {
       id: 1,
       measeurement: '15x20',
-      price: 2.35,
+      price: 2.85,
     },
     {
       id: 2,
       measeurement: '18x20',
-      price: 2.59,
+      price: 2.95,
     },
     {
       id: 3,
       measeurement: '20x20',
-      price: 2.76,
+      price: 4,
     },
     {
       id: 4,
       measeurement: '20x25',
-      price: 3.01,
+      price: 4.10,
     },
     {
       id: 5,
       measeurement: '25x20',
-      price: 3.17,
+      price: 4.20,
     },
     {
       id: 6,
       measeurement: '25x25',
-      price: 3.49,
+      price: 4.30,
     },
     {
       id: 7,
       measeurement: '25x30',
-      price: 3.80,
+      price: 4.50,
     },
     {
       id: 8,
       measeurement: '30x30',
-      price: 4.34,
+      price: 5,
     },
     {
       id: 9,
       measeurement: '30x35',
-      price: 4.72,
+      price: 5.80,
     },
     {
       id: 10,
       measeurement: '35x30',
-      price: 4.88
+      price: 5.50
     },
     {
       id: 11,
-      measeurement: '35x40',
-      price: 5.36,
+      measeurement: '30x40',
+      price: 6.50,
     },
     {
       id: 12,
       measeurement: '35x40',
-      price: 5.76,
+      price: 7,
     },
     {
       id: 13,
       measeurement: '35x45',
-      price: 6.20,
+      price:7.50,
     },
     {
       id: 14,
       measeurement: '40x35',
-      price: 6.38,
+      price: 7,
     },
     {
       id: 15,
       measeurement: '40x45',
-      price: 6.93,
+      price: 8.50,
     },
     {
       id: 16,
       measeurement: '40x50',
-      price: 7.43,
+      price: 9.50,
     },
     {
       id: 17,
       measeurement: '45x50',
-      price: 8.22,
+      price: 11,
     },
     {
       id: 18,
       measeurement: '50x50',
-      price: 9.01,
+      price: 13,
     },
     {
       id: 19,
       measeurement: '50x55',
-      price: 9.64,
+      price: 14,
     },
     {
       id: 20,
       measeurement: '50x53',
-      price: 10,
+      price: 14
     },
     {
       id: 21,
       measeurement: '50x60',
-      price: 11,
+      price: 15
     },
     {
       id: 22,
       measeurement: '50x65',
-      price: 12,
+      price: 15
     },
     {
       id: 23,
       measeurement: '50x70',
-      price: 15,
+      price: 17
     },
     {
       id: 24,
       measeurement: '60x80',
-      price: 22,
+      price: 25
     },
     {
       id: 25,
       measeurement: '70x70',
-      price: 34,
+      price: 40
     },
     {
       id: 26,
       measeurement: '90x80',
-      price: 35,
+      price: 45
     },
     {
       id: 27,
       measeurement: '100x100',
-      price: 40,
+      price: 50
     },
     {
       id: 28,
       measeurement: '110x70',
-      price: 45,
+      price: 55
     },
     {
       id: 29,
       measeurement: '110x110',
-      price: 55,
+      price: 60
     }
   ];
 
