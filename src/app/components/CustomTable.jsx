@@ -29,6 +29,11 @@ const PRICE_LIST = [
       price: 4.10,
     },
     {
+      id: 30,
+      measeurement: '20x30',
+      price: 4.50,
+    },
+    {
       id: 5,
       measeurement: '25x20',
       price: 4.20,
